@@ -208,6 +208,12 @@ export default function Home() {
           </div>
         )}
       </div>
+
+      <div className="mt-auto pt-16 pb-4 w-full text-center z-10 animate-in fade-in duration-1000">
+        <p className="text-zinc-500 text-sm font-mono tracking-widest uppercase">
+          Made by <span className="text-primary font-semibold">Muhammed Aflah S</span>
+        </p>
+      </div>
     </main>
   );
 }

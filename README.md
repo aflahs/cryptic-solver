@@ -1,6 +1,6 @@
 # Cryptarithmetic Solver Web Application
 
-A modern, highly optimized Next.js Web Application designed to solve Cryptarithmetic Puzzles through robust Constraint Satisfaction Problem (CSP) algorithms. The application features a glassmorphism-inspired dark mode interface and operates entirely on the client side, allowing for immediate computations without server bottlenecks.
+A Web Application designed to solve Cryptarithmetic Puzzles through robust Constraint Satisfaction Problem (CSP) algorithms.
 
 ---
 
