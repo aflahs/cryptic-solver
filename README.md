@@ -2,6 +2,8 @@
 
 A Web Application designed to solve Cryptarithmetic Puzzles through robust Constraint Satisfaction Problem (CSP) algorithms.
 
+https://cryptic-solver.aflah.workers.dev/
+
 ---
 
 ## Problem Description
